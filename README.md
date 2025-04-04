@@ -1,50 +1,76 @@
-# Welcome to your Expo app 👋
+# GOVJharkhand 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A React Native & Expo-based front-end project that enhances the UI of the Government of Jharkhand website. This project focuses on improving user experience by providing a modern, responsive, and well-structured interface
 
-## Get started
+## 🌟 Features
 
-1. Install dependencies
+- Revamped UI: A clean and visually appealing redesign of the Government of Jharkhand's website.
 
-   ```bash
-   npm install
-   ```
+- Responsive Design: Optimized for various screen sizes and mobile devices.
 
-2. Start the app
+- Smooth Navigation: Implemented an intuitive navigation system.
 
-   ```bash
-    npx expo start
-   ```
+- Optimized Performance: Ensured fast rendering and smooth transitions.
 
-In the output, you'll find options to open the app in a
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🎨 Design Process
 
-## Get a fresh project
+### 1️⃣ Wireframing & Prototyping
 
-When you're ready, run:
+- Before coding, I created wireframes to structure the layout of the app.
 
-```bash
-npm run reset-project
-```
+- Used Figma for designing an intuitive and accessible interface.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
+### 2️⃣ Design System
 
-To learn more about developing your project with Expo, look at the following resources:
+- To maintain consistency, I followed a structured design system:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- Typography: Selected fonts for readability and aesthetics.
 
-## Join the community
+- Color Palette: Used Jharkhand’s theme colors to align with the brand identity.
 
-Join our community of developers creating universal apps.
+- Spacing & Components: Designed reusable components for a modular approach.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+### 3️⃣ Final Prototype
+
+- The final design was refined based on UI/UX principles.
+
+- Incorporated feedback and improved overall aesthetics.
+
+
+## Development Process
+
+- React Native with Expo for cross-platform compatibility.
+
+- React Navigation for smooth routing and navigation.
+
+
+## Screenshots
+
+![Home page](https://github.com/user-attachments/assets/8a2d08f8-5796-44f1-a304-78f6de10aa2d)
+![Districts](https://github.com/user-attachments/assets/e6e8e070-3929-4171-9de6-c8e87935c6dc)
+![Ministers](https://github.com/user-attachments/assets/a150d6ab-5566-4a6c-8df7-2a2d7b63f52d)
+
+![Login](https://github.com/user-attachments/assets/edbd9b3e-6645-4163-8c6c-7295b0ea53c0)
+![Modal](https://github.com/user-attachments/assets/0c827350-dba6-4099-a047-25c014793317)
+![Registration](https://github.com/user-attachments/assets/36dcb185-be3c-4d7e-bf28-e8cd1f926d84)
+
+![image](https://github.com/user-attachments/assets/066f66b5-6fce-434b-aef4-3894162b81ba)
+
+## Installation & Setup
+
+### Clone the repository
+git clone https://github.com/piyushmahatoGit/GOVJharkhand.git
+
+### Navigate to the project directory
+cd GOVJharkhand
+
+### Install dependencies
+npm install
+
+### Run the project
+npm run start
+
+
