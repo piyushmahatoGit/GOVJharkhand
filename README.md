@@ -50,7 +50,7 @@ A React Native & Expo-based front-end project that enhances the UI of the Govern
 ## Screenshots
 <img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/user-attachments/assets/8a2d08f8-5796-44f1-a304-78f6de10aa2d" width="200" height="400" />
 
-![Home page](https://github.com/user-attachments/assets/8a2d08f8-5796-44f1-a304-78f6de10aa2d)
+![Home page](https://github.com/user-attachments/assets/8a2d08f8-5796-44f1-a304-78f6de10aa2d | width=200)
 ![Districts](https://github.com/user-attachments/assets/e6e8e070-3929-4171-9de6-c8e87935c6dc)
 ![Ministers](https://github.com/user-attachments/assets/a150d6ab-5566-4a6c-8df7-2a2d7b63f52d)
 
